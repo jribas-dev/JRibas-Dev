@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JRibas-Dev
-- 👀 I’m interested in soccer, gym and technoly
-- 🌱 I’m currently learning flutter, go
-- 💞️ I’m looking to collaborate on ERP Software
-- 📫 How to reach me 3b3brazil @ gmail
+# 👋 Hi, I’m @jribas-dev
+- ### 👀 I’m interested in soccer, gym and technoly
+- ### 🌱 I’m currently learning flutter, go
+- ### 💞️ I’m looking to collaborate on ERP Software
+- ### 📫 How to reach me 3b3brazil @ gmail
 
 <!---
 JRibas-Dev/JRibas-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
