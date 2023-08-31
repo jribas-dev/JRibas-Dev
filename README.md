@@ -70,7 +70,7 @@
     <td>Flexibilidade e adaptabilidade</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/JS_TS-171717?style=for-the-badge&logo=javascript&logoColor=c9d1d9"></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=c9d1d9"></td>
     <td><img src="https://img.shields.io/badge/AWS-171717?style=for-the-badge&logo=amazonaws&logoColor=c9d1d9"> <img src="https://img.shields.io/badge/Azure-171717?style=for-the-badge&logo=microsoftazure&logoColor=c9d1d9"></td>
     <td>Lidar com pressão</td>
   </tr>
@@ -90,7 +90,7 @@
     <td>Suportar Críticas</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Php7_Php8-171717?style=for-the-badge&logo=swagger&logoColor=c9d1d9"></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=c9d1d9"></td>
     <td><img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=c9d1d9"> <img src="https://img.shields.io/badge/Angular-171717?style=for-the-badge&logo=angular&logoColor=c9d1d9"></td>
     <td>Atitude positiva</td>
   </tr>
