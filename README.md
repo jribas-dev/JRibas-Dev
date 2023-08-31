@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FC7703&size=35&center=true&vCenter=true&width=1100&lines=Nice+to+meet+you,+welcome+to+my+Github+profile:%29)](https://git.io/typing-svg)
 
-<table style="margin: 0px auto;">
+<table align="center">
 <thead>
   <tr>
     <th>ABOUT ME</th>
