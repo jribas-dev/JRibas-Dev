@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FC7703&height=120&section=header"/>
 
-<div style="text-align:center; font-size:24px;">
+<h2 align="center">
 🙋‍♂️ <a href="https://github.com/jribas-dev" target="_blank">jribas-dev</a>
-</div>
+</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FC7703&size=35&center=true&vCenter=true&width=1100&lines=Nice+to+meet+you,+welcome+to+my+Github+profile:%29)](https://git.io/typing-svg)
 
